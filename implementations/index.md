@@ -24,7 +24,7 @@ Zarr version 2 and 3 implementations are listed (in alphabetical order per langu
 | C++/Python             | [TensorStore]          | ✓ | ✓ | ![][tensorstore-lu]          |
 | C++                    | [xtensor-zarr]         | ✓ | ✗ | ![][xtensor-zarr-lu]         |
 | C++                    | [z5]                   | ✓ |   | ![][z5-re]                   |
-| Elixir                 | [ExZarr]               | ✓ |   | ![][ExZarr-lu]               |
+| Elixir                 | [ExZarr]               | ✓ | ✓ | ![][ExZarr-lu]               |
 | Java                   | [JZarr]                | ✓ | ✓ | ![][JZarr-lu]                |
 | Java                   | [n5-zarr]              | ✓ |   | ![][n5-zarr-lu]              |
 | Java                   | [netCDF-Java]          | ✓ |   | ![][netCDF-Java-re]          |
